@@ -20,7 +20,7 @@
 
   ![image](https://github.com/it-crypto/WriteUp/assets/54020728/13c89412-2311-403f-838a-104fba17f091)
 
-  ![image](https://github.com/it-crypto/WriteUp/assets/54020728/bff263b9-48f7-4986-a628-36c7ac4461a3)
+![image](https://github.com/it-crypto/WriteUp/assets/54020728/bff263b9-48f7-4986-a628-36c7ac4461a3)  
 
 * Lets try by changing the credentials, and see what will happen.  
   
