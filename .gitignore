@@ -1,0 +1,9 @@
+# Ignore images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+
+# Ignore Obsidian attachments folder (if you use one)
+attachments/
